@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "key": "PHANTOM-DEMO-DEMO-DEMO",
+      "type": "lifetime",
+      "hwid": null,
+      "expires": null,
+      "note": "test key - leave hwid null for easy testing"
+    }
+  ]
+}
