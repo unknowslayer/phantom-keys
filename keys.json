@@ -4,7 +4,7 @@
       "key": "PHANTOM-ZEDF-ZGHB-ZEZF",
       "type": "lifetime",
       "hwid": "e55187b3ed8802dff81426351141c36b",
-      "expires": 7,
+      "expires": "7",
       "note": "test key - leave hwid null for easy testing"
     }
   ]
